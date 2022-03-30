@@ -5,3 +5,5 @@ PSDT: Maestro perdone que haya comprimido el codigo, pero daba un error a la hor
 Maestro este es el video tuve problemas con el net y el audio me salio desfazado varias veces, pero aqui esta
 Parte #1: https://youtu.be/DfbYgBgFZUM
 Parte #2: https://youtu.be/a0JB2_qO9Ls
+
+Por cierto en el master del github esta el proyecto sin comprimir lo subi de ambas formas por si da error, ya que lo subi directamente desde visual studio, pero para asegurar lo subi de ambas formas
