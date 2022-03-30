@@ -45,6 +45,9 @@ AS
 Update Categoria Set Nombre = @Nombre, Descripcion = @Descripcion
 WHERE IDcategoria = @IDcategoria
 
+
+--DROP PROCEDURE SP_editarCategoria2;  
+
 go
 
 --SP Eliminar
